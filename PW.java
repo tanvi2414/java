@@ -4,4 +4,8 @@ class PW
    {
        ///code
    }
+   public void m2()
+   {
+       ///code2
+   }
 }
